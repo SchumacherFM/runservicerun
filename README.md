@@ -1,4 +1,4 @@
-# runservicerun (for the Go programming language)
+# runservicerun
 
 Run Service Run! Starts multiple *http.Server (or other services) and terminates
 on os.Signal with a graceful shutdown. 🎽
@@ -42,7 +42,7 @@ Multi-time pull request senders gets collaborator access.
 
 [Cyrill Schumacher](https://github.com/SchumacherFM) - [My pgp public key](https://www.schumacher.fm/cyrill.asc)
 
-Copyright 2016 Cyrill Schumacher All Rights Reserved.
+Copyright 2019 Cyrill Schumacher All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
 this file except in compliance with the License. You may obtain a copy of the
